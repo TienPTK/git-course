@@ -1,0 +1,5 @@
+a. Ghi vào đó nội dung: là câu trả lời cho câu hỏi sau: Câu lệnh để cài đặt email và
+name là gì?
+git config --global user.email "<email>"
+b. Setup lại name của bạn về "Udemy - <tên của bạn>"
+git config --global user.name "<name>"
